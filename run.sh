@@ -1,4 +1,4 @@
-MXMLT_BINARY="/sdk/bin/mxmlc.exe"
+MXMLT_BINARY="sdk/bin/mxmlc.exe"
 FLEX_RESOURCES="flex-content/"
 OUTPUT="mxmlc-output/"
 
